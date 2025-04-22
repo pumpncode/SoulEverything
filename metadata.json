@@ -1,12 +1,12 @@
 {
-    "id": "SoulTarots",
-    "name": "SoulTarots",
-    "prefix": "soul_tarots",
+    "id": "SoulEverything",
+    "name": "SoulEverything",
+    "prefix": "soul_everything",
     "author": [
       "OppositeWolf770"
     ],
-    "description": "Adds a soul sprite to the tarot cards so that they float over the card",
-    "main_file": "SoulTarots.lua",
+    "description": "Adds a soul sprite to the Consumables so that their designs pop out of the card",
+    "main_file": "SoulEverything.lua",
     "badge_colour": "8b61ad",
     "version": "1.0.0",
     "dependencies": [

@@ -1,10 +1,10 @@
 return {
     descriptions = {
         texture_packs = {
-            texpack_soul_tarots_soul_tarots = {
-                name = 'SoulTarots',
+            texpack_soul_everything_soul_everything = {
+                name = 'SoulEverything',
                 text = {
-                    'Makes the figures in the Tarot Cards',
+                    'Makes the designs in the Consumables',
                     'pop out of the card',
                 }
             }

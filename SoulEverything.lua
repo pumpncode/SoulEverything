@@ -9,10 +9,10 @@ SMODS.load_file('content/Planets.lua')()
 
 
 TexturePack {
-    key = 'soul_tarots',
+    key = 'soul_everything',
     textures = {
-        'soul_tarots_tarots',
-        'soul_tarots_vouchers',
-        'soul_tarots_planets',
+        'soul_everything_tarots',
+        'soul_everything_vouchers',
+        'soul_everything_planets',
     },
 }
