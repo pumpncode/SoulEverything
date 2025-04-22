@@ -1,0 +1,16 @@
+{
+    "id": "SoulTarots",
+    "name": "SoulTarots",
+    "prefix": "soul_tarots",
+    "author": [
+      "OppositeWolf770"
+    ],
+    "description": "Adds a soul sprite to the tarot cards so that they float over the card",
+    "main_file": "SoulTarots.lua",
+    "badge_colour": "8b61ad",
+    "version": "1.0.0~ALPHA",
+    "dependencies": [
+        "malverk"
+    ]
+  }
+  
