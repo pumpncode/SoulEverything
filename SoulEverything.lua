@@ -19,3 +19,6 @@ TexturePack {
         'soul_everything_spectrals',
     },
 }
+
+-- Load the Credits tab
+SMODS.load_file('credits.lua')()
