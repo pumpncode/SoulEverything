@@ -10,6 +10,9 @@ SMODS.load_file('content/Planets.lua')()
 -- Load the vanilla Spectral textures
 SMODS.load_file('content/Spectrals.lua')()
 
+-- Load the vanilla Joker textures
+SMODS.load_file('content/Jokers.lua')()
+
 TexturePack {
     key = 'soul_everything',
     textures = {
@@ -17,6 +20,7 @@ TexturePack {
         'soul_everything_vouchers',
         'soul_everything_planets',
         'soul_everything_spectrals',
+        'soul_everything_jokers',
     },
 }
 
